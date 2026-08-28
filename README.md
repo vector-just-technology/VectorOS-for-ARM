@@ -1,6 +1,6 @@
 <div align="center">
   <h1>VectorOS</h1>
-  <img alt="GitHub Release" src="https://img.shields.io/github/v/tag/vector-just-technology/VectorOS-for-AMD"
+  <img alt="GitHub Release" src="https://img.shields.io/github/v/release/vector-just-technology/VectorOS-for-AMD"
 </div>
 
 
