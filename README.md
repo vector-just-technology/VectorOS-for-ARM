@@ -1,7 +1,8 @@
 <div align="center">
   <h1>VectorOS</h1>
   <img alt="GitHub Release" src="https://img.shields.io/github/v/tag/vector-just-technology/VectorOS-for-AMD">
-  <img alt="GitHub License" src="https://img.shields.io/github/license/vector-just-technology/VectorOS-for-AMD">
+  <img alt="Static Badge" src="https://img.shields.io/badge/LICENCE-Apache-orange">
+
 
 
 </div>
